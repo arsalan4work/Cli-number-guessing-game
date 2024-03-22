@@ -1,0 +1,24 @@
+{
+  "name": "arsalan-1z2-number-guessing-game",
+  "version": "1.0.0",
+  "description": "This is a real life number guessing game",
+  "main": "Number_guessing.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "Number_guessing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.11.30"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  }
+}
